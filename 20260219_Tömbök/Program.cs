@@ -53,7 +53,6 @@
                         elsőIndex--;
                         ElemEltávolítása(másodikTömbMásolata, másodikIndex);
                         másodikIndex--;
-                        // az egyező elemeket el kéne távolítani a tömbből
                     }
                 }
             }
